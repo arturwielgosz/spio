@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^54^m29$a*dntkq!m-qi&*@*23&1te^03p1ti1=%a&l%at4$va
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['webartur.pl','www.webartur.pl']
+ALLOWED_HOSTS = ['webartur.pl','www.webartur.pl','localhost','127.0.0.1']
 
 
 # Application definition
